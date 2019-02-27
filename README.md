@@ -1,0 +1,6 @@
+# mykt_rabbitmq
+RabbitMQ消息中间件简单演练，以及整合springboot项目演练
+
+1、项目rabbitmq_fanout演练消息中间件RabbitMQ的发布订阅功能；
+
+2、项目springboot_rabbitmq_consumer 消费者  和 项目springboot_rabbitmq_producer 生产者 联合演练消息中间件和springBoot整合
