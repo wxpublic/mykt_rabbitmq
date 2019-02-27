@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/rabbitmq_fanout/src/main/java/com/itmayiedu/fanout/ConsumerEmailFanout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rabbitmq_fanout/src/main/java/com/itmayiedu/fanout/ConsumerSmsFanout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rabbitmq_fanout/src/main/java/com/itmayiedu/fanout/FanoutProducer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rabbitmq_fanout/src/main/java/com/itmayiedu/routing/ConsumerEmailRouting.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rabbitmq_fanout/src/main/java/com/itmayiedu/routing/ConsumerSmsRouting.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rabbitmq_fanout/src/main/java/com/itmayiedu/routing/RoutingProducer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rabbitmq_fanout/src/main/java/com/itmayiedu/utils/MQConnectionUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot_rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_rabbitmq_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_rabbitmq_producer" charset="UTF-8" />
+  </component>
+</project>

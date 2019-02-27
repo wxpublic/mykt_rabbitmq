@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mykt_bus_rabbimq.iml" filepath="$PROJECT_DIR$/.idea/mykt_bus_rabbimq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq_fanout/rabbitmq_fanout.iml" filepath="$PROJECT_DIR$/rabbitmq_fanout/rabbitmq_fanout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_rabbitmq_consumer/springboot_rabbitmq_consumer.iml" filepath="$PROJECT_DIR$/springboot_rabbitmq_consumer/springboot_rabbitmq_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_rabbitmq_producer/springboot_rabbitmq_producer.iml" filepath="$PROJECT_DIR$/springboot_rabbitmq_producer/springboot_rabbitmq_producer.iml" />
+    </modules>
+  </component>
+</project>
